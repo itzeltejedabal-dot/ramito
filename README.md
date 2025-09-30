@@ -46,7 +46,7 @@ Te amo mi amor, feliz 30 de septiembre
       "Eres la luz de mis ojos ✨",
       "Quiero estar contigo por el resto de mi vida 💞",
       "Mi pensamiento favorito eres tú día a día 💭",
-      "Te amo a pasitos de hurón 🐹",
+      "Te amo a pasitos de hurón 🐹❤️‍🩹",
       "Eres lo mejor que me ha pasado y no lo cambiaría por nada 💖"
     ];
 
